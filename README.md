@@ -7,4 +7,10 @@
 ### Arrays:-
 * Reverse Array
 * Kth max and min element
+* Merge Without space
+
+### Tree:-
+* Height of Binary Tree
+* Preorder Traversal
+
   
