@@ -12,5 +12,7 @@
 ### Tree:-
 * Height of Binary Tree
 * Preorder Traversal
+* Postorder Traversal
+* Inorder Traversal
 
   
