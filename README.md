@@ -14,5 +14,7 @@
 * Preorder Traversal
 * Postorder Traversal
 * Inorder Traversal
-
+* Diameter of a BinaryTree
+* Checking a Tree is balanced or not
+* Level order traversal
   
