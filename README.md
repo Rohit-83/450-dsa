@@ -17,4 +17,6 @@
 * Diameter of a BinaryTree
 * Checking a Tree is balanced or not
 * Level order traversal
+* Binary Tree Creation From Inorder and Preorder
+* BST Searching
   
