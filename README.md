@@ -19,4 +19,8 @@
 * Level order traversal
 * Binary Tree Creation From Inorder and Preorder
 * BST Searching
+
+### String:-
+* Reverse a String
+* Check whether a String is Palindrome or not
   
