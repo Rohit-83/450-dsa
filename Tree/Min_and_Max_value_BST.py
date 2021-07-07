@@ -23,6 +23,3 @@ if __name__ == '__main__':
     max_value = max_value(root)
     CreateTree.printBinaryTree(root)
     print("min value and max value is ",min_value,max_value)
-
-
-
