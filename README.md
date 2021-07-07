@@ -19,6 +19,7 @@
 * Level order traversal
 * Binary Tree Creation From Inorder and Preorder
 * BST Searching
+* Checking a Tree is BST or Not
 
 ### String:-
 * Reverse a String
