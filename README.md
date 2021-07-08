@@ -24,4 +24,6 @@
 ### String:-
 * Reverse a String
 * Check whether a String is Palindrome or not
+* Find Duplicate Character
+* Check whether one string is rotation of another
   
