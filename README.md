@@ -20,6 +20,9 @@
 * Binary Tree Creation From Inorder and Preorder
 * BST Searching
 * Checking a Tree is BST or Not
+* Mirror of a Tree
+* Reverse Level order traverse
+* Min and max value in Bst
 
 ### String:-
 * Reverse a String
