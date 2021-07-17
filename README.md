@@ -23,6 +23,8 @@
 * Mirror of a Tree
 * Reverse Level order traverse
 * Min and max value in Bst
+* Left view of a binary tree
+* Right view of a binary tree
 
 ### String:-
 * Reverse a String
